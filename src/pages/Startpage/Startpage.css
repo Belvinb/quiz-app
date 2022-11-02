@@ -1,0 +1,26 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
+.start-avatar {
+  height: 150px;
+  width: 150px;
+}
+.container  h1{
+    color:#ffff
+}
+
+.get-started{
+    padding:1rem;
+    background-color: #595d9d;
+    color: #ffff;
+    border:none;
+    border-radius: 10px;
+}
+.get-started:hover{
+    cursor: pointer;
+}
